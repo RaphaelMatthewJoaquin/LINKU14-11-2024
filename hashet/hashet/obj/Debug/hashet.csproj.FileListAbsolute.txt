@@ -1,0 +1,7 @@
+C:\Users\COLLEGELAB-01\source\repos\hashet\hashet\obj\Debug\hashet.csproj.AssemblyReference.cache
+C:\Users\COLLEGELAB-01\source\repos\hashet\hashet\obj\Debug\hashet.csproj.CoreCompileInputs.cache
+C:\Users\COLLEGELAB-01\source\repos\hashet\hashet\bin\Debug\hashet.exe.config
+C:\Users\COLLEGELAB-01\source\repos\hashet\hashet\bin\Debug\hashet.exe
+C:\Users\COLLEGELAB-01\source\repos\hashet\hashet\bin\Debug\hashet.pdb
+C:\Users\COLLEGELAB-01\source\repos\hashet\hashet\obj\Debug\hashet.exe
+C:\Users\COLLEGELAB-01\source\repos\hashet\hashet\obj\Debug\hashet.pdb

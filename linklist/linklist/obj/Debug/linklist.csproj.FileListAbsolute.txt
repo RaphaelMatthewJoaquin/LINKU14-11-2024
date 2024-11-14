@@ -1,0 +1,7 @@
+C:\Users\COLLEGELAB-01\source\repos\linklist\linklist\bin\Debug\linklist.exe.config
+C:\Users\COLLEGELAB-01\source\repos\linklist\linklist\bin\Debug\linklist.exe
+C:\Users\COLLEGELAB-01\source\repos\linklist\linklist\bin\Debug\linklist.pdb
+C:\Users\COLLEGELAB-01\source\repos\linklist\linklist\obj\Debug\linklist.csproj.AssemblyReference.cache
+C:\Users\COLLEGELAB-01\source\repos\linklist\linklist\obj\Debug\linklist.csproj.CoreCompileInputs.cache
+C:\Users\COLLEGELAB-01\source\repos\linklist\linklist\obj\Debug\linklist.exe
+C:\Users\COLLEGELAB-01\source\repos\linklist\linklist\obj\Debug\linklist.pdb
